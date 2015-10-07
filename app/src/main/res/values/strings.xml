@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TweetViewer</string>
+    <string name="twitter_consumer_key">PaHbqqCfXbFBJtDtJQk6Ce1iB</string>
+    <string name="twitter_consumer_secret">jwGvvf0MdGdscRCE6its2UeAlMSUNItVNhV1r168VjtSLpk2gM</string>
+    <string name="action_settings">Settings</string>
+    <string name="splash_screen_text">Show pretty splash screen</string>
+</resources>
